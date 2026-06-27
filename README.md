@@ -1,0 +1,2 @@
+# neurix
+Test version 1 of neurix AutoML
